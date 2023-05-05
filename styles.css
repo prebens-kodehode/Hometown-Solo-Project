@@ -14,6 +14,7 @@ body {
   text-align: center;
   color: #00171f;
   background: #f5f1ed;
+  max-width: 70rem;
 }
 
 img {
@@ -112,7 +113,8 @@ header {
 }
 
 .img-card {
-  border-radius: 0.3rem;
+  box-shadow: 0 0 .2rem #00171f;
+  border-radius: 0.4rem;
   width: 12.5rem;
   height: 15rem;
 }
