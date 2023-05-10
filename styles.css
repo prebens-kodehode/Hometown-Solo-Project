@@ -10,11 +10,11 @@ DARK BLUE: #1D3557
 
 body {
   font-family: "Poppins", sans-serif;
-  margin: 0;
+  margin: 0 auto;
   text-align: center;
   color: #00171f;
   background: #f5f1ed;
-  max-width: 70rem;
+  max-width: 80rem;
 }
 
 img {
@@ -35,7 +35,7 @@ header {
   height: 22rem;
   margin: 0;
   color: #f1faee;
-  margin: 0 0 3rem 0;
+  margin: 0;
   text-align: center;
 }
 
@@ -73,6 +73,10 @@ header {
   outline: 0.2rem solid #00171f;
 }
 
+.mid {
+  background: #F1FAEE;
+  padding: 1rem 0;
+}
 .activities {
   display: flex;
   justify-content: space-around;
